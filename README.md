@@ -8,11 +8,11 @@ Each assignment explores fundamental topics in computer vision, from image forma
 ## 📁 Repository Structure
 
 │
-├── HW0/ # Intro to image manipulation and pixel operations
-├── HW1/ # Edge detection and filtering
-├── HW2/ # Feature detection and matching
-├── HW3/ # Camera calibration and 3D reconstruction
-├── HW4/ # Deep learning-based image classification
+├── HW0/ # Intro to image manipulation and pixel operations  
+├── HW1/ # Edge detection and filtering  
+├── HW2/ # Feature detection and matching  
+├── HW3/ # Camera calibration and 3D reconstruction  
+├── HW4/ # Deep learning-based image classification  
 
 
 
@@ -58,6 +58,8 @@ Each assignment explores fundamental topics in computer vision, from image forma
 
 ### 📷 **HW3 — Camera Calibration & 3D Reconstruction**
 **Topics:**  
+- Image classfication 
+- Feature Extraction
 - Pinhole camera model and projection matrices  
 - Epipolar geometry, essential & fundamental matrices  
 - Triangulation for 3D point reconstruction  
@@ -71,7 +73,7 @@ Each assignment explores fundamental topics in computer vision, from image forma
 ### 🤖 **HW4 — Deep Learning for Vision Tasks**
 **Topics:**  
 - CNN fundamentals (convolution, pooling, activation)  
-- Training and testing a simple image classifier  
+- Training and testing a simple image classifier for digit classification
 - Transfer learning with pre-trained models  
 
 **Highlights:**  
@@ -110,7 +112,8 @@ Each assignment explores fundamental topics in computer vision, from image forma
 ## 📸 Example Outputs
 
 ```markdown
-![HW1 Edge Detection](HW1/Images/edges_output.png)
-![HW2 Feature Matching](HW2/Images/matches.png)
-![HW3 3D Reconstruction](HW3/Images/pointcloud.png)
-![HW4 CNN Results](HW4/Images/training_accuracy.png)
+![HW1 Edge Detection](HW1/Problem1_example.png)
+![HW2 Feature Matching](HW2/dino_matching.png)
+![HW2 Edge Detection](HW2/dino_matching.png)
+![HW3 3D Reconstruction](HW3/output_image_classfication.png)
+![HW4 CNN Results](HW4/output_digit_classification.png)
