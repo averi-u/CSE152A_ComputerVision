@@ -2,6 +2,7 @@
 
 This repository contains projects from **CSE152A - Computer Vision** uploaded after graduation as public. Single Author: Zhizhen Averi Yu. 
 Each assignment explores fundamental topics in computer vision, from image formation to 3D reconstruction, implemented in **Python** and **Jupyter Notebooks**.
+![HW4 CNN Results](HW4/output_digit_classification.png)
 
 ---
 
@@ -125,4 +126,4 @@ Each assignment explores fundamental topics in computer vision, from image forma
 
 
 ![HW3 3D Reconstruction](HW3/output_image_classfication.png)
-![HW4 CNN Results](HW4/output_digit_classification.png)
+
