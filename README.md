@@ -1,6 +1,6 @@
 # CSE152A: Computer Vision (UCSD)
 
-This repository contains projects from **CSE152A - Introduction to Computer Vision**. Single Author: Zhizhen Averi Yu. 
+This repository contains projects from **CSE152A - Computer Vision** uploaded after graduation as public. Single Author: Zhizhen Averi Yu. 
 Each assignment explores fundamental topics in computer vision, from image formation to 3D reconstruction, implemented in **Python** and **Jupyter Notebooks**.
 
 ---
@@ -111,9 +111,18 @@ Each assignment explores fundamental topics in computer vision, from image forma
 
 ## 📸 Example Outputs
 
-```markdown
+
 ![HW1 Edge Detection](HW1/Problem1_example.png)
-![HW2 Feature Matching](HW2/dino_matching.png)
-![HW2 Edge Detection](HW2/dino_matching.png)
+
+
+
+| Visualization | Output |
+|----------------|---------|
+| **Corner Detection** | ![HW2 Corner Detection](HW2/output_images/output_corner_detection.png) |
+| **Edge Detection** | ![HW2 Edge Detection](HW2/output_images/output_edgeDetection.png) |
+| **Epipolar Lines** | ![HW2 Epipolar Lines](HW2/output_images/output_epipolarLines.png) |
+| **Naive Feature Matching** | ![HW2 Naive Matching](HW2/output_images/outout_naive_matching.png) |
+
+
 ![HW3 3D Reconstruction](HW3/output_image_classfication.png)
 ![HW4 CNN Results](HW4/output_digit_classification.png)
