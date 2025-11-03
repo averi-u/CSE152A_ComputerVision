@@ -1,4 +1,4 @@
-# CSE152A: Computer Vision (UCSD)
+# Computer Vision Machine Learning Projects 
 
 This repository contains projects from **CSE152A - Computer Vision** uploaded after graduation as public. Single Author: Zhizhen Averi Yu. 
 Each assignment explores fundamental topics in computer vision, from image formation to 3D reconstruction, implemented in **Python** and **Jupyter Notebooks**.
